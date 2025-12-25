@@ -1,14 +1,14 @@
 {
   "version": "1.1.0",
   "notes": "Added cool new features!",
-  "pub_date": "2025-12-25T12:00:00Z",
+  "pub_date": "2025-12-25T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "...", // The contents of your .sig file
+      "signature": "PASTE_REAL_SIGNATURE_HERE",
       "url": "https://github.com/user/repo/releases/download/v1.1.0/app.msi.zip"
     },
     "darwin-aarch64": {
-      "signature": "...",
+      "signature": "PASTE_REAL_SIGNATURE_HERE",
       "url": "https://github.com/user/repo/releases/download/v1.1.0/app.app.tar.gz"
     }
   }
