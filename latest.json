@@ -4,7 +4,7 @@
   "pub_date": "2025-12-25T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "PASTE_REAL_SIGNATURE_HERE",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeWJPYSs3Z3ZpME1MdWF6aTBWbm8vcjdVWGlzcUd6WWMydnRYb1kwQzdxNExBb01ZZysvZ2ZOaUdrT1lwN0d5dXlGa284UXZHc0o5RVFqa3UxRFpuajg2S3lCM2F3ZlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2Njk3NzM0CWZpbGU6QmVzdGJ1eSBzY3JhcGVyXzAuMS42X3g2NF9lbi1VUy5tc2kKSGlIYVd1Q3FmNXRvaGRKNFRJRE5VQWdRdTdCY200Q3dUbTlDZFRXL3JrY1A5cytOL1hmN0xza3dEaENDUGd1dWs1WmZ5N0RrVHppMmtxdExTU0ZFQ1E9PQo=",
       "url": "https://github.com/user/repo/releases/download/v1.1.0/app.msi.zip"
     },
     "darwin-aarch64": {
