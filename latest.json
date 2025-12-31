@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeWJPYSs3Z3ZpME5SY01ieDZwTUNtTkp5M1Q2dW1DZllEMVFUVjRJSFJkYXRId3ZEZi9GeG4xYU5OZkpFakpwMWFhSlpNMms4WFJFYkxrU0NmMWRiVFVSYzJsNjBJUEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MTcwNjUxCWZpbGU6QmVzdGJ1eSBzY3JhcGVyXzEuMC4wX3g2NC1zZXR1cC5uc2lzLnppcAovZ3lNeEtpQVk5OHBpSnAvYzBEZjFHOUNZMmJUeXRYU21VNjZVbTNsSjdpWlBJWmxCYlhZODE1UWhEeTU1djd6WVRQN1NzU1hiQktqL0VUdngwSDFBZz09Cg==",
-      "url": "https://github.com/jaccqo/bestbuy-scraper-pro-releases/releases/download/v5/Bestbuy.scraper_0.1.16_x64-setup.nsis.zip"
+      "url": "https://github.com/jaccqo/bestbuy-scraper-pro-releases/releases/download/v5/Bestbuy.scraper_1.0.0_x64-setup.nsis.zip"
     },
     "darwin-aarch64": {
       "signature": "",
