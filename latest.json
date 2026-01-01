@@ -8,8 +8,8 @@
       "url": "https://github.com/jaccqo/bestbuy-scraper-pro-releases/releases/download/v5/Bestbuy.scraper_1.0.0_x64-setup.nsis.zip"
     },
     "darwin-aarch64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ",
+      "url": "https://github.com/jaccqo/bestbuy-scraper-pro"
     }
   }
 }
