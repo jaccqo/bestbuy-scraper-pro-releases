@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
+  "version": "2.0.0",
   "notes": "Added cool new features!",
   "pub_date": "2025-12-25T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeWJPYSs3Z3ZpMElGMXhnbkY5aHYybFBaMzhYK3ZoYlBZVFEwYlUzN2ZGOHcxY2JvYXBPVmx6MjZBeXVEMXJWTkVhZGE3cTExT0hlbmFNVkhpQWZhYWI1Z251cWE4enc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMTUwMTAwCWZpbGU6QmVzdGJ1eSBzY3JhcGVyXzEuMS4wX3g2NC1zZXR1cC5uc2lzLnppcApCVXNDdXRDMnFpY2pGZTJNdFJJMGlzZmpPQTFDdWdtNW9MRlduSmlZQkpmUVRXQm4zTjZHQjBHZ1VWbEp3c21CRGY5MFQ0Zm5jRFl3dHRrUS9pa0FDUT09Cg==",
-      "url": "https://github.com/jaccqo/bestbuy-scraper-pro-releases/releases/download/v7/Bestbuy.scraper_1.1.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeWJPYSs3Z3ZpMElGSVNWdTVoS1NNSzRPWEZBWFBiK0Y4STZZTTdyMjBMeG0wb3NPcmUvVS9reTdQUU4rOWtNZFJsYi9MVWMrcnpWSlYwUWgxU2VmL2VQdTlJN1dXL2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMTA3NTA1CWZpbGU6QmVzdGJ1eSBzY3JhcGVyXzIuMC4wX3g2NC1zZXR1cC5uc2lzLnppcAptaFZIVzM0TkZibzZjVGZMYnIzeTVTbnU4TU1jVTZVV1cvZGF1b3M5cEJNeE1OWnM1S3hqZWRSb0RTK3JaV2hEU0ZySHlYQUdxWG9paDU4b1FGNXdEZz09Cg==",
+      "url": "https://github.com/jaccqo/bestbuy-scraper-pro-releases/releases/download/v8/Bestbuy.scraper_2.0.0_x64-setup.nsis.zip"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ",
