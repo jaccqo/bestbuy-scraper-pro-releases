@@ -4,7 +4,7 @@
   "pub_date": "2026-03-22T14:35:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeWJPYSs3Z3ZpMENJeDFMdExNT3hKRmk5aC85bDRmUk5XT3JLT212OHZsUzZMK294RWpMTnA3SmgrZGdvd0dsY2YyMWRTbWlpWjRsR3YrVHZwanpLZVVGYlNOeTZpZFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjYzNTg2CWZpbGU6QmVzdGJ1eSBzY3JhcGVyXzMuOC4wX3g2NC1zZXR1cC5uc2lzLnppcAp2R0ExbWpQQ0tGL3d4MUlWNXZSemFwVjA3VmlkV0ovcnNtVlJ4MFpzMGF0UEU3dDVGTkZZMVJwVzVoTG41a3pMdmNLSGFxTlp6T1pydUZzL1g5dXpEZz09Cg=="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeWJPYSs3Z3ZpMENJeDFMdExNT3hKRmk5aC85bDRmUk5XT3JLT212OHZsUzZMK294RWpMTnA3SmgrZGdvd0dsY2YyMWRTbWlpWjRsR3YrVHZwanpLZVVGYlNOeTZpZFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjYzNTg2CWZpbGU6QmVzdGJ1eSBzY3JhcGVyXzMuOC4wX3g2NC1zZXR1cC5uc2lzLnppcAp2R0ExbWpQQ0tGL3d4MUlWNXZSemFwVjA3VmlkV0ovcnNtVlJ4MFpzMGF0UEU3dDVGTkZZMVJwVzVoTG41a3pMdmNLSGFxTlp6T1pydUZzL1g5dXpEZz09Cg==",
       "url": "https://github.com/jaccqo/bestbuy-scraper-pro-releases/releases/download/v3.0.0/Bestbuy.scraper_3.8.0_x64-setup.nsis.zip"
     },
     "darwin-aarch64": {
